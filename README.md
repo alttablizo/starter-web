@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 
 Intro
 
@@ -10,6 +10,6 @@ Intro
 
 Sample website with plenty of files for demos
 
-##DEPLOYMENT
+## Deployment
 
 Deployment
